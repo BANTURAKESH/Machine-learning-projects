@@ -1,2 +1,1 @@
-# machine-learning-project
-parkinsons disease prediction 
+# machine-learning-projects
