@@ -4,8 +4,8 @@ Machine Learning Topics covered  in this machine learning practical file.
 
 
 
-Basics of Data Mining: dimensionality reduction
-Principal Component Analysis (PCA)
+* Basics of Data Mining: dimensionality reduction
+* Principal Component Analysis (PCA)
 Linear Discriminant Analysis (LDA)
 Regression analysis
 k-Nearest Neighbors algorithm (K-NN)
